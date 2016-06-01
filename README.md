@@ -17,6 +17,8 @@ actOnModules.sync('SomePathToADirectory', (directory) => {
 ##Async with callback
 
 ```
+const actOnModules = require('act-on-modules');
+
 actOnModules('SomePathToADirectory', 
 (directory) => {
     //put your logic here
@@ -31,6 +33,8 @@ actOnModules('SomePathToADirectory',
 ##Async with promise
 
 ```
+const actOnModules = require('act-on-modules');
+
 actOnModules('SomePathToADirectory', 
 (directory) => {
     //put your logic here
