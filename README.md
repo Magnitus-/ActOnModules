@@ -46,5 +46,9 @@ actOnModules('SomePathToADirectory',
     //This is the callback if an error was encountered
     //Again, be mindful that asynchronous operations in your custom action might not have completed
     //You'll have to add an additional layer of logic with nimble/async or promises if you want asynchronous flow control
-};
+});
 ```
+
+#npm Link
+
+https://www.npmjs.com/package/act-on-modules
