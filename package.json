@@ -1,0 +1,22 @@
+{
+  "name": "act-on-modules",
+  "version": "0.1.0",
+  "description": "Library to perform an action on all user-defined modules under a given directory",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Magnitus-/ActOnModules"
+  },
+  "bugs": {
+    "url": "http://github.com/Magnitus-/ActOnModules/issues",
+    "email": "eric_vallee@webificservices.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Vallee (eric_vallee@webificservices.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "3.x"
+  }
+}
